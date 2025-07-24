@@ -1,0 +1,29 @@
+JIRA RAG REPORT
+============================================================
+
+Question:
+What is the current status of the API integration issue?
+
+Generated Answer:
+This is a generated summary based on top JIRA issues.
+
+Top Retrieved JIRA Issues:
+
+Issue 1:
+Issue: CS-101
+Status: In Progress
+Summary: API Integration failing in staging
+Description: The API is throwing 500 errors intermittently on the staging environment. Investigating backend logs.
+
+Issue 2:
+Issue: CS-102
+Status: To Do
+Summary: Add logging to API integration module
+Description: Developers requested more detailed logging to debug production errors.
+
+Issue 3:
+Issue: CS-103
+Status: Done
+Summary: Authentication issues in API gateway
+Description: The gateway was blocking requests due to token misconfiguration. Resolved.
+
