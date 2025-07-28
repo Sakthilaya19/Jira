@@ -1,0 +1,38 @@
+[
+    {
+        "connectorId": "4c9b2593-da5b-4d1b-b2a8-4e3a3d440352",
+        "connectorName": "Sh 2",
+        "connectorType": "SHAREPOINT",
+        "advisorId": "ade1ac53-7f12-4191-8e14-b71fa13f488b",
+        "advisorName": "KBRS General",
+        "connectionStatus": "Active",
+        "schedule": {
+            "isRecurring": false,
+            "dates": [],
+            "days": [],
+            "lastExecutionStatus": "",
+            "lastExecutionTime": "2025-01-16T12:18:44.3174764Z"
+        },
+        "createdAt": "2025-01-16T12:18:44.0237607Z",
+        "modifiedBy": "Sagar Khairnar (Admin)"
+    },
+    {
+        "connectorId": "6d929e4a-fcc3-4345-860d-64308cca2dcd",
+        "connectorName": "Sharepoint Demo 1",
+        "connectorType": "SHAREPOINT",
+        "advisorId": "0b9686cc-8252-45ea-b9fe-45916777db1f",
+        "advisorName": "Rollout Concepts",
+        "connectionStatus": "Active",
+        "schedule": {
+            "isRecurring": false,
+            "dates": [
+                "2025-02-04T20:33:00Z"
+            ],
+            "days": [],
+            "lastExecutionStatus": "Completed",
+            "lastExecutionTime": "2025-02-04T20:33:10.041646Z"
+        },
+        "createdAt": "2025-02-04T08:35:26.7754625Z",
+        "modifiedBy": "Sagar Khairnar (Admin)"
+    }
+]  
