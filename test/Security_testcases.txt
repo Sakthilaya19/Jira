@@ -1,0 +1,47 @@
+Security Test Cases
+
+SECURITY_001
+Test Case ID: SECURITY_001
+Title: Security Test Case 1
+Description: This test validates security functionality step 1.
+Steps: Step 1: Perform action 1 for Security.
+Expected Result: Expected result 1 for Security.
+Actual Result: To be tested
+Status: Not Executed
+
+SECURITY_002
+Test Case ID: SECURITY_002
+Title: Security Test Case 2
+Description: This test validates security functionality step 2.
+Steps: Step 2: Perform action 2 for Security.
+Expected Result: Expected result 2 for Security.
+Actual Result: To be tested
+Status: Not Executed
+
+SECURITY_003
+Test Case ID: SECURITY_003
+Title: Security Test Case 3
+Description: This test validates security functionality step 3.
+Steps: Step 3: Perform action 3 for Security.
+Expected Result: Expected result 3 for Security.
+Actual Result: To be tested
+Status: Not Executed
+
+SECURITY_004
+Test Case ID: SECURITY_004
+Title: Security Test Case 4
+Description: This test validates security functionality step 4.
+Steps: Step 4: Perform action 4 for Security.
+Expected Result: Expected result 4 for Security.
+Actual Result: To be tested
+Status: Not Executed
+
+SECURITY_005
+Test Case ID: SECURITY_005
+Title: Security Test Case 5
+Description: This test validates security functionality step 5.
+Steps: Step 5: Perform action 5 for Security.
+Expected Result: Expected result 5 for Security.
+Actual Result: To be tested
+Status: Not Executed
+

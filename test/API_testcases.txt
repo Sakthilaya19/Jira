@@ -1,0 +1,47 @@
+API Test Cases
+
+API_001
+Test Case ID: API_001
+Title: API Test Case 1
+Description: This test validates api functionality step 1.
+Steps: Step 1: Perform action 1 for API.
+Expected Result: Expected result 1 for API.
+Actual Result: To be tested
+Status: Not Executed
+
+API_002
+Test Case ID: API_002
+Title: API Test Case 2
+Description: This test validates api functionality step 2.
+Steps: Step 2: Perform action 2 for API.
+Expected Result: Expected result 2 for API.
+Actual Result: To be tested
+Status: Not Executed
+
+API_003
+Test Case ID: API_003
+Title: API Test Case 3
+Description: This test validates api functionality step 3.
+Steps: Step 3: Perform action 3 for API.
+Expected Result: Expected result 3 for API.
+Actual Result: To be tested
+Status: Not Executed
+
+API_004
+Test Case ID: API_004
+Title: API Test Case 4
+Description: This test validates api functionality step 4.
+Steps: Step 4: Perform action 4 for API.
+Expected Result: Expected result 4 for API.
+Actual Result: To be tested
+Status: Not Executed
+
+API_005
+Test Case ID: API_005
+Title: API Test Case 5
+Description: This test validates api functionality step 5.
+Steps: Step 5: Perform action 5 for API.
+Expected Result: Expected result 5 for API.
+Actual Result: To be tested
+Status: Not Executed
+

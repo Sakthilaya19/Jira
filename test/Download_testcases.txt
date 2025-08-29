@@ -1,0 +1,47 @@
+Download Test Cases
+
+DOWNLOAD_001
+Test Case ID: DOWNLOAD_001
+Title: Download Test Case 1
+Description: This test validates download functionality step 1.
+Steps: Step 1: Perform action 1 for Download.
+Expected Result: Expected result 1 for Download.
+Actual Result: To be tested
+Status: Not Executed
+
+DOWNLOAD_002
+Test Case ID: DOWNLOAD_002
+Title: Download Test Case 2
+Description: This test validates download functionality step 2.
+Steps: Step 2: Perform action 2 for Download.
+Expected Result: Expected result 2 for Download.
+Actual Result: To be tested
+Status: Not Executed
+
+DOWNLOAD_003
+Test Case ID: DOWNLOAD_003
+Title: Download Test Case 3
+Description: This test validates download functionality step 3.
+Steps: Step 3: Perform action 3 for Download.
+Expected Result: Expected result 3 for Download.
+Actual Result: To be tested
+Status: Not Executed
+
+DOWNLOAD_004
+Test Case ID: DOWNLOAD_004
+Title: Download Test Case 4
+Description: This test validates download functionality step 4.
+Steps: Step 4: Perform action 4 for Download.
+Expected Result: Expected result 4 for Download.
+Actual Result: To be tested
+Status: Not Executed
+
+DOWNLOAD_005
+Test Case ID: DOWNLOAD_005
+Title: Download Test Case 5
+Description: This test validates download functionality step 5.
+Steps: Step 5: Perform action 5 for Download.
+Expected Result: Expected result 5 for Download.
+Actual Result: To be tested
+Status: Not Executed
+

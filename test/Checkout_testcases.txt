@@ -1,0 +1,47 @@
+Checkout Test Cases
+
+CHECKOUT_001
+Test Case ID: CHECKOUT_001
+Title: Checkout Test Case 1
+Description: This test validates checkout functionality step 1.
+Steps: Step 1: Perform action 1 for Checkout.
+Expected Result: Expected result 1 for Checkout.
+Actual Result: To be tested
+Status: Not Executed
+
+CHECKOUT_002
+Test Case ID: CHECKOUT_002
+Title: Checkout Test Case 2
+Description: This test validates checkout functionality step 2.
+Steps: Step 2: Perform action 2 for Checkout.
+Expected Result: Expected result 2 for Checkout.
+Actual Result: To be tested
+Status: Not Executed
+
+CHECKOUT_003
+Test Case ID: CHECKOUT_003
+Title: Checkout Test Case 3
+Description: This test validates checkout functionality step 3.
+Steps: Step 3: Perform action 3 for Checkout.
+Expected Result: Expected result 3 for Checkout.
+Actual Result: To be tested
+Status: Not Executed
+
+CHECKOUT_004
+Test Case ID: CHECKOUT_004
+Title: Checkout Test Case 4
+Description: This test validates checkout functionality step 4.
+Steps: Step 4: Perform action 4 for Checkout.
+Expected Result: Expected result 4 for Checkout.
+Actual Result: To be tested
+Status: Not Executed
+
+CHECKOUT_005
+Test Case ID: CHECKOUT_005
+Title: Checkout Test Case 5
+Description: This test validates checkout functionality step 5.
+Steps: Step 5: Perform action 5 for Checkout.
+Expected Result: Expected result 5 for Checkout.
+Actual Result: To be tested
+Status: Not Executed
+

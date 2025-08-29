@@ -1,0 +1,47 @@
+Dashboard Test Cases
+
+DASHBOARD_001
+Test Case ID: DASHBOARD_001
+Title: Dashboard Test Case 1
+Description: This test validates dashboard functionality step 1.
+Steps: Step 1: Perform action 1 for Dashboard.
+Expected Result: Expected result 1 for Dashboard.
+Actual Result: To be tested
+Status: Not Executed
+
+DASHBOARD_002
+Test Case ID: DASHBOARD_002
+Title: Dashboard Test Case 2
+Description: This test validates dashboard functionality step 2.
+Steps: Step 2: Perform action 2 for Dashboard.
+Expected Result: Expected result 2 for Dashboard.
+Actual Result: To be tested
+Status: Not Executed
+
+DASHBOARD_003
+Test Case ID: DASHBOARD_003
+Title: Dashboard Test Case 3
+Description: This test validates dashboard functionality step 3.
+Steps: Step 3: Perform action 3 for Dashboard.
+Expected Result: Expected result 3 for Dashboard.
+Actual Result: To be tested
+Status: Not Executed
+
+DASHBOARD_004
+Test Case ID: DASHBOARD_004
+Title: Dashboard Test Case 4
+Description: This test validates dashboard functionality step 4.
+Steps: Step 4: Perform action 4 for Dashboard.
+Expected Result: Expected result 4 for Dashboard.
+Actual Result: To be tested
+Status: Not Executed
+
+DASHBOARD_005
+Test Case ID: DASHBOARD_005
+Title: Dashboard Test Case 5
+Description: This test validates dashboard functionality step 5.
+Steps: Step 5: Perform action 5 for Dashboard.
+Expected Result: Expected result 5 for Dashboard.
+Actual Result: To be tested
+Status: Not Executed
+
